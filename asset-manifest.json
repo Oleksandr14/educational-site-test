@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/educational-site-test/static/css/main.fa812c43.css",
+    "main.js": "/educational-site-test/static/js/main.41116ee6.js",
+    "static/media/marketing.jpg": "/educational-site-test/static/media/marketing.a5b6ffb11ccbc2330f89.jpg",
+    "static/media/hero.jpg": "/educational-site-test/static/media/hero.9465567d93cf6e1f7290.jpg",
+    "static/media/spain.jpg": "/educational-site-test/static/media/spain.7412d1481bcbd1a94d0c.jpg",
+    "static/media/language.jpg": "/educational-site-test/static/media/language.b758c114496d7834edd2.jpg",
+    "static/media/science.jpg": "/educational-site-test/static/media/science.2349eaaea993530c37b4.jpg",
+    "static/media/biol.jpg": "/educational-site-test/static/media/biol.b6227ddf2e159af16912.jpg",
+    "static/media/philosophy.jpeg": "/educational-site-test/static/media/philosophy.c6316a9944c972493189.jpeg",
+    "static/media/math.jpg": "/educational-site-test/static/media/math.6d0fe53078c4225e053f.jpg",
+    "static/media/economic.jpg": "/educational-site-test/static/media/economic.c279537d4334a271dbf9.jpg",
+    "static/media/computer-s.jpg": "/educational-site-test/static/media/computer-s.f3a2ab77189acfd922ca.jpg",
+    "static/media/social.jpg": "/educational-site-test/static/media/social.667b56afa955e51d5bc4.jpg",
+    "static/media/history.jpg": "/educational-site-test/static/media/history.0ed094ce73a971027d33.jpg",
+    "index.html": "/educational-site-test/index.html",
+    "main.fa812c43.css.map": "/educational-site-test/static/css/main.fa812c43.css.map",
+    "main.41116ee6.js.map": "/educational-site-test/static/js/main.41116ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa812c43.css",
+    "static/js/main.41116ee6.js"
+  ]
+}
