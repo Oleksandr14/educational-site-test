@@ -1,7 +1,13 @@
 {
   "files": {
-    "main.css": "/educational-site-test/static/css/main.fa812c43.css",
-    "main.js": "/educational-site-test/static/js/main.41116ee6.js",
+    "main.css": "/educational-site-test/static/css/main.8cdbe6d4.css",
+    "main.js": "/educational-site-test/static/js/main.bc43a1e1.js",
+    "static/css/391.ee298f54.chunk.css": "/educational-site-test/static/css/391.ee298f54.chunk.css",
+    "static/js/391.d9082b69.chunk.js": "/educational-site-test/static/js/391.d9082b69.chunk.js",
+    "static/css/455.a38089be.chunk.css": "/educational-site-test/static/css/455.a38089be.chunk.css",
+    "static/js/455.835c4221.chunk.js": "/educational-site-test/static/js/455.835c4221.chunk.js",
+    "static/js/466.67376c94.chunk.js": "/educational-site-test/static/js/466.67376c94.chunk.js",
+    "static/js/763.5abfc5de.chunk.js": "/educational-site-test/static/js/763.5abfc5de.chunk.js",
     "static/media/marketing.jpg": "/educational-site-test/static/media/marketing.a5b6ffb11ccbc2330f89.jpg",
     "static/media/hero.jpg": "/educational-site-test/static/media/hero.9465567d93cf6e1f7290.jpg",
     "static/media/spain.jpg": "/educational-site-test/static/media/spain.7412d1481bcbd1a94d0c.jpg",
@@ -15,11 +21,17 @@
     "static/media/social.jpg": "/educational-site-test/static/media/social.667b56afa955e51d5bc4.jpg",
     "static/media/history.jpg": "/educational-site-test/static/media/history.0ed094ce73a971027d33.jpg",
     "index.html": "/educational-site-test/index.html",
-    "main.fa812c43.css.map": "/educational-site-test/static/css/main.fa812c43.css.map",
-    "main.41116ee6.js.map": "/educational-site-test/static/js/main.41116ee6.js.map"
+    "main.8cdbe6d4.css.map": "/educational-site-test/static/css/main.8cdbe6d4.css.map",
+    "main.bc43a1e1.js.map": "/educational-site-test/static/js/main.bc43a1e1.js.map",
+    "391.ee298f54.chunk.css.map": "/educational-site-test/static/css/391.ee298f54.chunk.css.map",
+    "391.d9082b69.chunk.js.map": "/educational-site-test/static/js/391.d9082b69.chunk.js.map",
+    "455.a38089be.chunk.css.map": "/educational-site-test/static/css/455.a38089be.chunk.css.map",
+    "455.835c4221.chunk.js.map": "/educational-site-test/static/js/455.835c4221.chunk.js.map",
+    "466.67376c94.chunk.js.map": "/educational-site-test/static/js/466.67376c94.chunk.js.map",
+    "763.5abfc5de.chunk.js.map": "/educational-site-test/static/js/763.5abfc5de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa812c43.css",
-    "static/js/main.41116ee6.js"
+    "static/css/main.8cdbe6d4.css",
+    "static/js/main.bc43a1e1.js"
   ]
 }
