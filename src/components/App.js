@@ -1,11 +1,11 @@
 import { Route, Routes } from "react-router-dom";
-
+import { lazy } from "react";
 import SharedLayout from "./SharedLayout/SharedLayout";
 
-import Home from "./pages/Home";
-import Courses from "./pages/Courses";
-import About from "./pages/About";
-import Contacts from "./pages/Contacts";
+const Home = lazy(() => import("./pages/Home"));
+const Courses = lazy(() => import("./pages/Courses"));
+const About = lazy(() => import("./pages/About"));
+const Contacts = lazy(() => import("./pages/Contacts"));
 
 function App() {
   return (
